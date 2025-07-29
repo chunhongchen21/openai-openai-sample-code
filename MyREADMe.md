@@ -1,6 +1,5 @@
 # Summary 
-This project is a copy of the openai project 
-`git clone https://github.com/openai/openai-quickstart-python.git`
+This project is based on `git clone https://github.com/openai/openai-quickstart-python.git`
 
 # Process for setting up this project 
 
